@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atupakisye Stephen</h1>
 <h3 align="center">A passionate web developer from Tanzania</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Atupakisyestephen/Atupakisyestephen/blob/main/img.gif">
+<img align="right" alt="coding" width="400" ![img](https://github.com/Atupakisyestephen/Atupakisyestephen/blob/main/img.gif)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atupakisyestephen&label=Profile%20views&color=0e75b6&style=flat" alt="atupakisyestephen" /> </p>
 
