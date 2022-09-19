@@ -1,4 +1,7 @@
 
+<img align="left" alt="profile" width="400"  src="img3.jpg" >
+<h3>COMPUTER SCIENTIST</h3>
+<h1>ATUPAKISYE STEPHEN</h1>
 <h1 align="center">Hi 👋, I'm Atupakisye Stephen</h1>
 <h3 align="center">A passionate web developer from Tanzania</h3>
 
